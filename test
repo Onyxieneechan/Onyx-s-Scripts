@@ -220,6 +220,7 @@ local Button = Tab:CreateButton({
         SayMessageRequest:FireServer(convertedMessage, "All")
     end,
 })
+
 local Tab = Window:CreateTab("Sex","banana")
 
 local Button = Tab:CreateButton({
